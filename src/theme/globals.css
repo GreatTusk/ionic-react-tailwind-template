@@ -3,3 +3,10 @@
 @tailwind utilities;
 
 /** other custom global styles can go here */
+
+@layer base {
+  :root {
+
+    --radius: 0.5rem
+  }
+}
