@@ -57,6 +57,9 @@ To run the project, you can use the following scripts:
   npm run lint
   ```
 
+## Configuration
+This template is configured to use with Shadcnui.
+
 That's it! You're ready to run and develop your Ionic app with React and Tailwind CSS.
 
 ## Documentation
@@ -65,5 +68,5 @@ Here are some useful links to documentation for the technologies used in this te
 - [Ionic Documentation](https://ionicframework.com/docs) - Official documentation for Ionic framework.
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs) - Official documentation for Tailwind CSS.
 - [React Documentation](https://reactjs.org/docs) - Official documentation for React.
-
+- [shadcn/ui Documentation](https://ui.shadcn.com/docs) -Official documentation for shadcn/ui.
 Make sure to refer to these resources for detailed information and guides on how to use these technologies effectively.
