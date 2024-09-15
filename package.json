@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "npm run watch:css & vite",
     "build": "npm run build:css && tsc && vite build",
     "format": "prettier --write 'src/**/*.{js,jsx,ts,tsx}'",
     "preview": "vite preview",
