@@ -3,7 +3,7 @@ import {
   IonHeader,
   IonPage,
   IonTitle,
-  IonToolbar,
+  IonToolbar
 } from "@ionic/react";
 
 const Home: React.FC = () => {
